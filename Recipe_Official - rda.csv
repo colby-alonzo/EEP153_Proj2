@@ -1,0 +1,28 @@
+Nutrient,Nutrient Type,Unit,Constraint Type,Male_Endurance_Normal,Female_Endurance_Normal,Male_Strength_Normal,Female_Strength_Normal,Male_Bodybuilding_Normal,Female_Bodybuilding_Normal,Male_Endurance_Intense,Female_Endurance_Intense,Male_Strength_Intense,Female_Strength_Intense,Male_Bodybuilding_Intense,Female_Bodybuilding_Intense
+Energy,Macro,kcal,RDA,4250,3700,3900,3400,3750,3200,4700,4100,4300,3750,3950,3360
+Protein,Macro,g,RDA,120,100,132,107,180,120,140,115,152,123,210,138
+Carbohydrate,Macro,g,RDA,700,600,320,260,400,300,810,690,350,290,440,330
+Dietary Fiber,Macro,g,RDA,34,23.5,38,25,34,25,34,23.5,38,25,34,25
+Linoleic Acid,Macro,g,AI,17,12,14.5,11.5,17,12,17,12,14.5,11.5,17,12
+Linolenic Acid,Macro,g,AI,1.6,1.1,1.6,1.1,1.6,1.1,1.6,1.1,1.6,1.1,1.6,1.1
+Calcium,Mineral,mg,RDA,"1,000",1000,1000,1000,1000,1000,1000,1000,1000,1000,1000,1000
+Iron,Mineral,mg,RDA,10,18,8,18,8,18,10,18,8,18,8,18
+Magnesium,Mineral,mg,RDA,420,320,420,320,420,320,460,350,460,350,460,350
+Phosphorus,Mineral,mg,RDA,700,700,700,700,700,700,700,700,700,700,700,700
+Potassium,Mineral,mg,AI,"3,400",2600,4700,4700,3400,3400,3750,2900,5200,5200,3750,3750
+Sodium,Mineral,mg,UL,2300,2250,1500,1500,2500,2500,3000,2900,2000,2000,3250,3250
+Zinc,Mineral,mg,RDA,11,8,11,8,11,8,11,8,11,8,11,8
+Copper,Mineral,mg,RDA,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9
+Selenium,Mineral,mcg,RDA,55,55,55,55,55,55,55,55,55,55,55,55
+Vitamin A,Vitamin,mcg,RDA,900,700,900,700,900,700,900,700,900,700,900,700
+Vitamin E,Vitamin,mg,RDA,15,15,15,15,15,15,15,15,15,15,15,15
+Vitamin D,Vitamin,mcg,RDA,15,15,15,15,20,20,15,15,15,15,20,20
+Vitamin C,Vitamin,mg,RDA,90,75,90,75,90,75,110,90,110,90,110,90
+Thiamin,Vitamin,mg,RDA,1.2,1.1,1.2,1.1,1.2,1.1,1.2,1.1,1.2,1.1,1.2,1.1
+Riboflavin,Vitamin,mg,RDA,1.3,1.1,1.3,1.1,1.3,1.1,1.3,1.1,1.3,1.1,1.3,1.1
+Niacin,Vitamin,mg,RDA,16,14,16,14,16,14,16,14,16,14,16,14
+Vitamin B6,Vitamin,mg,RDA,1.7,1.5,1.3,1.3,1.7,1.3,1.9,1.7,1.5,1.4,1.9,1.4
+Vitamin B12,Vitamin,mcg,RDA,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4,2.4
+Choline,Vitamin,mg,AI,550,425,550,425,550,425,550,425,550,425,550,425
+Vitamin K,Vitamin,mcg,AI,120,90,120,90,120,90,120,90,120,90,120,90
+Folate,Vitamin,mcg,RDA,400,400,400,400,400,400,400,400,400,400,400,400
